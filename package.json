@@ -1,0 +1,17 @@
+{
+  "name": "tp2-iglesias-juan-ignacio",
+  "version": "1.0.0",
+  "description": "TP2 de Taller de Programacion 2 - Iglesias Juan Ignacio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test.js",
+    "ms.js": "node src/ms.js",
+    "mac.js": "node src/mac.js",
+    "maptc.js": "node src/maptc.js",
+    "mapaa.js": "node src/mapaa.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
